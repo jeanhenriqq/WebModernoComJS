@@ -13,4 +13,4 @@ const media = total / (peso1 + peso2)
 
 console.log(media.toFixed(2))
 console.log(media.toString()) //Se colocar um 2 no toString, gera um valor binario
-console.log(typeof media)
+console.log(typeof media) 
